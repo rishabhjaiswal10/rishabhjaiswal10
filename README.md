@@ -1,6 +1,8 @@
 # 💫 About Me:
 ⚡ A Polymath and Coding Enthusiast<br>🔭 I’m currently working on Software Projects<br>👯 I’m looking to collaborate on Artificial Intelligence/Machine Learning Projects<br>🤝 I’m looking for help with Job/Internship Opportunities<br>🌱 I’m currently learning Data Science / Data Analysis<br>💬 Ask me about Anything But Everything<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=12345678-nishitagole&label=Profile%20views&color=0e75b6&style=flat" alt="12345678-nishitagole" /> </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishabhjaiswall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-jaiswal-36781b209) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UChv2aHYlOrVS6FKirSK98GA) 
